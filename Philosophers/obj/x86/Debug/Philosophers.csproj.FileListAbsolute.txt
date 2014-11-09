@@ -1,0 +1,9 @@
+C:\Users\WilliamMcPherson01\VSProj\Philosophers\Philosophers\bin\Debug\Philosophers.exe
+C:\Users\WilliamMcPherson01\VSProj\Philosophers\Philosophers\bin\Debug\Philosophers.pdb
+C:\Users\WilliamMcPherson01\VSProj\Philosophers\Philosophers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\WilliamMcPherson01\VSProj\Philosophers\Philosophers\obj\x86\Debug\Philosophers.Form1.resources
+C:\Users\WilliamMcPherson01\VSProj\Philosophers\Philosophers\obj\x86\Debug\Philosophers.Properties.Resources.resources
+C:\Users\WilliamMcPherson01\VSProj\Philosophers\Philosophers\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\WilliamMcPherson01\VSProj\Philosophers\Philosophers\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\WilliamMcPherson01\VSProj\Philosophers\Philosophers\obj\x86\Debug\Philosophers.exe
+C:\Users\WilliamMcPherson01\VSProj\Philosophers\Philosophers\obj\x86\Debug\Philosophers.pdb
